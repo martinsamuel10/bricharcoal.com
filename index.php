@@ -158,9 +158,9 @@ if (isset($_POST["submit"])) {
                 <h3 class="center light grey-text text-darken-3">About Us</h3>
                 <div class="col m6">
                     <h5>We Are Professionals</h5>
-                    <p>Brico is a startup working in the export of charcoal briquettes.
+                    <p>We as suppliers sell cheap coconut shell charcoal with the best quality in the world!
 
-                        We work with various charcoal briquette factories throughout Indonesia who are used to exporting charcoal briquettes.</p>
+                        We provide the documents you need for further information in the catalog menu</p>
                 </div>
 
                 <div class="col m6">
@@ -264,7 +264,7 @@ if (isset($_POST["submit"])) {
                 </div>
             </div>
             <div class="center ">
-                <a href="catalog.php" class="blue-grey darken-4 btn-large">More...</a>
+                <a href="catalog.php" target="_blank" class="blue-grey darken-4 btn-large">More...</a>
             </div>
             
         </div>

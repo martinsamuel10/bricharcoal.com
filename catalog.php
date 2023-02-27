@@ -17,10 +17,10 @@
     <nav class="nav-extended blue-grey darken-4">
         <div class="container">
             <div class="nav-wrapper">
-                <a href="#" class="brand-logo">Catalog</a>
+                <a href="catalog.php" class="brand-logo">Catalog</a>
                 <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
                 <ul id="nav-mobile" class="right hide-on-med-and-down">
-                    <li><a href="https://wa.link/nf7qrl" class="btn waves-effect waves-teal">WhatsApp</a></li>
+                    <li><a href="https://wa.link/nf7qrl" target="_blank" class="btn waves-effect waves-teal">WhatsApp</a></li>
                 </ul>
             </div>
             <div class="nav-content">
@@ -37,7 +37,7 @@
 
   <ul class="sidenav" id="mobile-demo">
     <h3 class="center">Get Price</h3>
-    <li><a href="https://wa.link/nf7qrl" class="btn waves-effect waves-teal">WhatsApp</a></li>
+    <li><a href="https://wa.link/nf7qrl" target="_blank" class="btn waves-effect waves-teal">WhatsApp</a></li>
   </ul>
 
     <div id="test1" class="col s12">
@@ -63,7 +63,7 @@
                         <li>Free from chemicals</li>
                         <li>Precise briquette cutting</li>
                         <br>
-                        <a href="https://wa.link/nf7qrl" class="btn blue-grey darken-4">Get Price</a>
+                        <a href="https://wa.link/nf7qrl" target="_blank" class="btn blue-grey darken-4">Get Price</a>
                     </div>
                 </div>
 
@@ -84,7 +84,7 @@
                         <li>Free from chemicals</li>
                         <li>Precise briquette cutting</li>
                         <br>
-                        <a href="https://wa.link/nf7qrl" class="btn blue-grey darken-4">Get Price</a>
+                        <a href="https://wa.link/nf7qrl" target="_blank" class="btn blue-grey darken-4">Get Price</a>
                     </div>
                 </div>
 
@@ -129,7 +129,7 @@
                             <li>Ash Content : 3,5 - 4%</li>
                             <li>Burning Time : 4Hrs (Based on Charcoal Type)</li>
                             <br>
-                            <a href="https://wa.link/nf7qrl" class="btn blue-grey darken-4">Get Price</a>
+                            <a href="https://wa.link/nf7qrl" target="_blank" class="btn blue-grey darken-4">Get Price</a>
                         </div>
                     </div> 
                     
@@ -151,7 +151,7 @@
                             <li>Ash Content : 3,5 - 4%</li>
                             <li>Burning Time : 4Hrs (Based on Charcoal Type)</li>
                             <br>
-                            <a href="https://wa.link/nf7qrl" class="btn blue-grey darken-4">Get Price</a>
+                            <a href="https://wa.link/nf7qrl" target="_blank" class="btn blue-grey darken-4">Get Price</a>
                         </div>
                     </div>
                 </div>
@@ -183,7 +183,7 @@
                 <div class="col m6 s12">
                     <h4>Discuss your brand packaging</h4>
                     <br>
-                    <a href="https://wa.link/nf7qrl" class="btn blue-grey darken-4">Discuss</a>
+                    <a href="https://wa.link/nf7qrl" target="_blank" class="btn blue-grey darken-4">Discuss</a>
                 </div>
             </div>
 
@@ -270,7 +270,7 @@ After the container with coconut charcoal is shipped, we prepare shipping docume
         </div>
     </div>
 
-    <a href="https://wa.link/nf7qrl" class="wabutton" target="_blank">
+    <a href="https://wa.link/nf7qrl" target="_blank" class="wabutton" target="_blank">
         <i class="fa fa-whatsapp my-float"></i>
     </a>
 
