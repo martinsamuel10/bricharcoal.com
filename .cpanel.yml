@@ -5,10 +5,12 @@ deployment:
     - /bin/cp index.php $DEPLOYPATH
     - /bin/cp catalog.php $DEPLOYPATH
     - /bin/cp .htaccess $DEPLOYPATH
-    - /bin/cp .composer.json $DEPLOYPATH
-    - /bin/cp .composer.lock $DEPLOYPATH
+    - /bin/cp composer.json $DEPLOYPATH
+    - /bin/cp composer.lock $DEPLOYPATH
+    - /bin/cp LICENSE.lock $DEPLOYPATH
+    - /bin/cp README.md.lock $DEPLOYPATH
     - /bin/cp -R img $DEPLOYPATH
-    - /bin/cp -R css $DEPLOYPATH
+    - /bin/cp -R CSS $DEPLOYPATH
     - /bin/cp -R js $DEPLOYPATH
     - /bin/cp -R PHPMailer-master $DEPLOYPATH
     - /bin/cp -R vendor $DEPLOYPATH
