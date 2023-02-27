@@ -1,6 +1,6 @@
 ---
 deployment:
-  taks:
+  tasks:
     - export DEPLOYPATH=/home/n1577697/public_html/
     - /bin/cp index.php $DEPLOYPATH
     - /bin/cp catalog.php $DEPLOYPATH
